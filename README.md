@@ -1,4 +1,4 @@
-# multiple_color_detection
+# Multiple Color Detection
 ![image](https://github.com/JohnPaulPrabhu/multiple_color_detection/assets/26264448/6492ad3f-9894-4c6a-ab42-6663b1b2217d)
 
 This Python script leverages OpenCV to detect and identify multiple colors (red, green, and blue) in a video stream in real-time. It employs color masking, contour analysis, and refinements to enhance detection accuracy.
